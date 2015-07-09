@@ -1,0 +1,252 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F218FF661B4DBEFE000CB182 /* 0-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */; };
+		F218FF671B4DBEFE000CB182 /* 1-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF601B4DBEFE000CB182 /* 1-mega.csv */; };
+		F218FF681B4DBEFE000CB182 /* 2-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF611B4DBEFE000CB182 /* 2-mega.csv */; };
+		F218FF691B4DBEFE000CB182 /* 3-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF621B4DBEFE000CB182 /* 3-mega.csv */; };
+		F218FF6A1B4DBEFE000CB182 /* 4-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF631B4DBEFE000CB182 /* 4-mega.csv */; };
+		F218FF6B1B4DBEFE000CB182 /* 5-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF641B4DBEFE000CB182 /* 5-mega.csv */; };
+		F218FF6C1B4DBEFE000CB182 /* 6-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF651B4DBEFE000CB182 /* 6-mega.csv */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F218FF551B4DBED1000CB182 /* mega */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mega; sourceTree = BUILT_PRODUCTS_DIR; };
+		F218FF591B4DBED1000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mega.csv"; sourceTree = "<group>"; };
+		F218FF601B4DBEFE000CB182 /* 1-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mega.csv"; sourceTree = "<group>"; };
+		F218FF611B4DBEFE000CB182 /* 2-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mega.csv"; sourceTree = "<group>"; };
+		F218FF621B4DBEFE000CB182 /* 3-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mega.csv"; sourceTree = "<group>"; };
+		F218FF631B4DBEFE000CB182 /* 4-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mega.csv"; sourceTree = "<group>"; };
+		F218FF641B4DBEFE000CB182 /* 5-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mega.csv"; sourceTree = "<group>"; };
+		F218FF651B4DBEFE000CB182 /* 6-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "6-mega.csv"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F218FF4E1B4DBED1000CB182 = {
+			isa = PBXGroup;
+			children = (
+				F218FF571B4DBED1000CB182 /* mega */,
+				F218FF561B4DBED1000CB182 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F218FF561B4DBED1000CB182 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF551B4DBED1000CB182 /* mega */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F218FF571B4DBED1000CB182 /* mega */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */,
+				F218FF601B4DBEFE000CB182 /* 1-mega.csv */,
+				F218FF611B4DBEFE000CB182 /* 2-mega.csv */,
+				F218FF621B4DBEFE000CB182 /* 3-mega.csv */,
+				F218FF631B4DBEFE000CB182 /* 4-mega.csv */,
+				F218FF641B4DBEFE000CB182 /* 5-mega.csv */,
+				F218FF651B4DBEFE000CB182 /* 6-mega.csv */,
+				F218FF581B4DBED1000CB182 /* Supporting Files */,
+			);
+			path = mega;
+			sourceTree = "<group>";
+		};
+		F218FF581B4DBED1000CB182 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF591B4DBED1000CB182 /* ContentInfo.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F218FF541B4DBED1000CB182 /* mega */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F218FF5C1B4DBED1000CB182 /* Build configuration list for PBXNativeTarget "mega" */;
+			buildPhases = (
+				F218FF531B4DBED1000CB182 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mega;
+			productName = mega;
+			productReference = F218FF551B4DBED1000CB182 /* mega */;
+			productType = "com.apple.product-type.in-app-purchase-content";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F218FF4F1B4DBED1000CB182 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "birdSound LLC";
+				TargetAttributes = {
+					F218FF541B4DBED1000CB182 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = F218FF521B4DBED1000CB182 /* Build configuration list for PBXProject "mega" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F218FF4E1B4DBED1000CB182;
+			productRefGroup = F218FF561B4DBED1000CB182 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F218FF541B4DBED1000CB182 /* mega */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F218FF531B4DBED1000CB182 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F218FF6B1B4DBEFE000CB182 /* 5-mega.csv in Resources */,
+				F218FF681B4DBEFE000CB182 /* 2-mega.csv in Resources */,
+				F218FF6C1B4DBEFE000CB182 /* 6-mega.csv in Resources */,
+				F218FF671B4DBEFE000CB182 /* 1-mega.csv in Resources */,
+				F218FF6A1B4DBEFE000CB182 /* 4-mega.csv in Resources */,
+				F218FF691B4DBEFE000CB182 /* 3-mega.csv in Resources */,
+				F218FF661B4DBEFE000CB182 /* 0-mega.csv in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F218FF5A1B4DBED1000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		F218FF5B1B4DBED1000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+			};
+			name = Release;
+		};
+		F218FF5D1B4DBED1000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mega/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Debug;
+		};
+		F218FF5E1B4DBED1000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mega/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F218FF521B4DBED1000CB182 /* Build configuration list for PBXProject "mega" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F218FF5A1B4DBED1000CB182 /* Debug */,
+				F218FF5B1B4DBED1000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F218FF5C1B4DBED1000CB182 /* Build configuration list for PBXNativeTarget "mega" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F218FF5D1B4DBED1000CB182 /* Debug */,
+				F218FF5E1B4DBED1000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F218FF4F1B4DBED1000CB182 /* Project object */;
+}

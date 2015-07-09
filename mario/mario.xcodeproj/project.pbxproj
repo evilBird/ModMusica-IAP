@@ -1,0 +1,244 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF441B4DBEA2000CB182 /* 0-mario.csv */; };
+		F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF451B4DBEA2000CB182 /* 1-mario.csv */; };
+		F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF461B4DBEA2000CB182 /* 2-mario.csv */; };
+		F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF471B4DBEA2000CB182 /* 3-mario.csv */; };
+		F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF481B4DBEA2000CB182 /* 4-mario.csv */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F218FF3A1B4DBE67000CB182 /* mario */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mario; sourceTree = BUILT_PRODUCTS_DIR; };
+		F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F218FF441B4DBEA2000CB182 /* 0-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mario.csv"; sourceTree = "<group>"; };
+		F218FF451B4DBEA2000CB182 /* 1-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mario.csv"; sourceTree = "<group>"; };
+		F218FF461B4DBEA2000CB182 /* 2-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mario.csv"; sourceTree = "<group>"; };
+		F218FF471B4DBEA2000CB182 /* 3-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mario.csv"; sourceTree = "<group>"; };
+		F218FF481B4DBEA2000CB182 /* 4-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mario.csv"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F218FF331B4DBE67000CB182 = {
+			isa = PBXGroup;
+			children = (
+				F218FF3C1B4DBE67000CB182 /* mario */,
+				F218FF3B1B4DBE67000CB182 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F218FF3B1B4DBE67000CB182 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF3A1B4DBE67000CB182 /* mario */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F218FF3C1B4DBE67000CB182 /* mario */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF441B4DBEA2000CB182 /* 0-mario.csv */,
+				F218FF451B4DBEA2000CB182 /* 1-mario.csv */,
+				F218FF461B4DBEA2000CB182 /* 2-mario.csv */,
+				F218FF471B4DBEA2000CB182 /* 3-mario.csv */,
+				F218FF481B4DBEA2000CB182 /* 4-mario.csv */,
+				F218FF3D1B4DBE67000CB182 /* Supporting Files */,
+			);
+			path = mario;
+			sourceTree = "<group>";
+		};
+		F218FF3D1B4DBE67000CB182 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F218FF391B4DBE67000CB182 /* mario */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F218FF411B4DBE67000CB182 /* Build configuration list for PBXNativeTarget "mario" */;
+			buildPhases = (
+				F218FF381B4DBE67000CB182 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = mario;
+			productName = mario;
+			productReference = F218FF3A1B4DBE67000CB182 /* mario */;
+			productType = "com.apple.product-type.in-app-purchase-content";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F218FF341B4DBE67000CB182 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "birdSound LLC";
+				TargetAttributes = {
+					F218FF391B4DBE67000CB182 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = F218FF371B4DBE67000CB182 /* Build configuration list for PBXProject "mario" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F218FF331B4DBE67000CB182;
+			productRefGroup = F218FF3B1B4DBE67000CB182 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F218FF391B4DBE67000CB182 /* mario */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F218FF381B4DBE67000CB182 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */,
+				F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */,
+				F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */,
+				F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */,
+				F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F218FF3F1B4DBE67000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		F218FF401B4DBE67000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+			};
+			name = Release;
+		};
+		F218FF421B4DBE67000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mario/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Debug;
+		};
+		F218FF431B4DBE67000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = mario/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F218FF371B4DBE67000CB182 /* Build configuration list for PBXProject "mario" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F218FF3F1B4DBE67000CB182 /* Debug */,
+				F218FF401B4DBE67000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F218FF411B4DBE67000CB182 /* Build configuration list for PBXNativeTarget "mario" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F218FF421B4DBE67000CB182 /* Debug */,
+				F218FF431B4DBE67000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F218FF341B4DBE67000CB182 /* Project object */;
+}
