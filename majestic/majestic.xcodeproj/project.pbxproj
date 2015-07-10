@@ -7,60 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF441B4DBEA2000CB182 /* 0-mario.csv */; };
-		F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF451B4DBEA2000CB182 /* 1-mario.csv */; };
-		F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF461B4DBEA2000CB182 /* 2-mario.csv */; };
-		F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF471B4DBEA2000CB182 /* 3-mario.csv */; };
-		F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF481B4DBEA2000CB182 /* 4-mario.csv */; };
-		F218FFC41B506C01000CB182 /* 5-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFC31B506C01000CB182 /* 5-mario.csv */; };
+		F218FFDA1B5070E4000CB182 /* 0-majestic.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFD61B5070E4000CB182 /* 0-majestic.csv */; };
+		F218FFDB1B5070E4000CB182 /* 1-majestic.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFD71B5070E4000CB182 /* 1-majestic.csv */; };
+		F218FFDC1B5070E4000CB182 /* 2-majestic.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFD81B5070E4000CB182 /* 2-majestic.csv */; };
+		F218FFDD1B5070E4000CB182 /* 3-majestic.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFD91B5070E4000CB182 /* 3-majestic.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F218FF3A1B4DBE67000CB182 /* mario */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mario; sourceTree = BUILT_PRODUCTS_DIR; };
-		F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
-		F218FF441B4DBEA2000CB182 /* 0-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mario.csv"; sourceTree = "<group>"; };
-		F218FF451B4DBEA2000CB182 /* 1-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mario.csv"; sourceTree = "<group>"; };
-		F218FF461B4DBEA2000CB182 /* 2-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mario.csv"; sourceTree = "<group>"; };
-		F218FF471B4DBEA2000CB182 /* 3-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mario.csv"; sourceTree = "<group>"; };
-		F218FF481B4DBEA2000CB182 /* 4-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mario.csv"; sourceTree = "<group>"; };
-		F218FFC31B506C01000CB182 /* 5-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mario.csv"; sourceTree = "<group>"; };
+		F218FFCC1B506E4E000CB182 /* majestic */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = majestic; sourceTree = BUILT_PRODUCTS_DIR; };
+		F218FFD01B506E4E000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F218FFD61B5070E4000CB182 /* 0-majestic.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "0-majestic.csv"; path = "majestic/0-majestic.csv"; sourceTree = "<group>"; };
+		F218FFD71B5070E4000CB182 /* 1-majestic.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "1-majestic.csv"; path = "majestic/1-majestic.csv"; sourceTree = "<group>"; };
+		F218FFD81B5070E4000CB182 /* 2-majestic.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "2-majestic.csv"; path = "majestic/2-majestic.csv"; sourceTree = "<group>"; };
+		F218FFD91B5070E4000CB182 /* 3-majestic.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "3-majestic.csv"; path = "majestic/3-majestic.csv"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		F218FF331B4DBE67000CB182 = {
+		F218FFC51B506E4E000CB182 = {
 			isa = PBXGroup;
 			children = (
-				F218FF3C1B4DBE67000CB182 /* mario */,
-				F218FF3B1B4DBE67000CB182 /* Products */,
+				F218FFCE1B506E4E000CB182 /* majestic */,
+				F218FFCD1B506E4E000CB182 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F218FF3B1B4DBE67000CB182 /* Products */ = {
+		F218FFCD1B506E4E000CB182 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F218FF3A1B4DBE67000CB182 /* mario */,
+				F218FFCC1B506E4E000CB182 /* majestic */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F218FF3C1B4DBE67000CB182 /* mario */ = {
+		F218FFCE1B506E4E000CB182 /* majestic */ = {
 			isa = PBXGroup;
 			children = (
-				F218FF441B4DBEA2000CB182 /* 0-mario.csv */,
-				F218FF451B4DBEA2000CB182 /* 1-mario.csv */,
-				F218FF461B4DBEA2000CB182 /* 2-mario.csv */,
-				F218FF471B4DBEA2000CB182 /* 3-mario.csv */,
-				F218FF481B4DBEA2000CB182 /* 4-mario.csv */,
-				F218FFC31B506C01000CB182 /* 5-mario.csv */,
-				F218FF3D1B4DBE67000CB182 /* Supporting Files */,
+				F218FFD61B5070E4000CB182 /* 0-majestic.csv */,
+				F218FFD71B5070E4000CB182 /* 1-majestic.csv */,
+				F218FFD81B5070E4000CB182 /* 2-majestic.csv */,
+				F218FFD91B5070E4000CB182 /* 3-majestic.csv */,
+				F218FFCF1B506E4E000CB182 /* Supporting Files */,
 			);
-			path = mario;
+			path = majestic;
 			sourceTree = "<group>";
 		};
-		F218FF3D1B4DBE67000CB182 /* Supporting Files */ = {
+		F218FFCF1B506E4E000CB182 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */,
+				F218FFD01B506E4E000CB182 /* ContentInfo.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -68,70 +62,68 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F218FF391B4DBE67000CB182 /* mario */ = {
+		F218FFCB1B506E4E000CB182 /* majestic */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F218FF411B4DBE67000CB182 /* Build configuration list for PBXNativeTarget "mario" */;
+			buildConfigurationList = F218FFD31B506E4E000CB182 /* Build configuration list for PBXNativeTarget "majestic" */;
 			buildPhases = (
-				F218FF381B4DBE67000CB182 /* Resources */,
+				F218FFCA1B506E4E000CB182 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = mario;
-			productName = mario;
-			productReference = F218FF3A1B4DBE67000CB182 /* mario */;
+			name = majestic;
+			productName = majestic;
+			productReference = F218FFCC1B506E4E000CB182 /* majestic */;
 			productType = "com.apple.product-type.in-app-purchase-content";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F218FF341B4DBE67000CB182 /* Project object */ = {
+		F218FFC61B506E4E000CB182 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "birdSound LLC";
 				TargetAttributes = {
-					F218FF391B4DBE67000CB182 = {
+					F218FFCB1B506E4E000CB182 = {
 						CreatedOnToolsVersion = 6.4;
 					};
 				};
 			};
-			buildConfigurationList = F218FF371B4DBE67000CB182 /* Build configuration list for PBXProject "mario" */;
+			buildConfigurationList = F218FFC91B506E4E000CB182 /* Build configuration list for PBXProject "majestic" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = F218FF331B4DBE67000CB182;
-			productRefGroup = F218FF3B1B4DBE67000CB182 /* Products */;
+			mainGroup = F218FFC51B506E4E000CB182;
+			productRefGroup = F218FFCD1B506E4E000CB182 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F218FF391B4DBE67000CB182 /* mario */,
+				F218FFCB1B506E4E000CB182 /* majestic */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F218FF381B4DBE67000CB182 /* Resources */ = {
+		F218FFCA1B506E4E000CB182 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */,
-				F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */,
-				F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */,
-				F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */,
-				F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */,
-				F218FFC41B506C01000CB182 /* 5-mario.csv in Resources */,
+				F218FFDD1B5070E4000CB182 /* 3-majestic.csv in Resources */,
+				F218FFDB1B5070E4000CB182 /* 1-majestic.csv in Resources */,
+				F218FFDA1B5070E4000CB182 /* 0-majestic.csv in Resources */,
+				F218FFDC1B5070E4000CB182 /* 2-majestic.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F218FF3F1B4DBE67000CB182 /* Debug */ = {
+		F218FFD11B506E4E000CB182 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -170,7 +162,7 @@
 			};
 			name = Debug;
 		};
-		F218FF401B4DBE67000CB182 /* Release */ = {
+		F218FFD21B506E4E000CB182 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -202,20 +194,20 @@
 			};
 			name = Release;
 		};
-		F218FF421B4DBE67000CB182 /* Debug */ = {
+		F218FFD41B506E4E000CB182 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = mario/ContentInfo.plist;
+				INFOPLIST_FILE = majestic/ContentInfo.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = "";
 			};
 			name = Debug;
 		};
-		F218FF431B4DBE67000CB182 /* Release */ = {
+		F218FFD51B506E4E000CB182 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				INFOPLIST_FILE = mario/ContentInfo.plist;
+				INFOPLIST_FILE = majestic/ContentInfo.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = "";
@@ -225,25 +217,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F218FF371B4DBE67000CB182 /* Build configuration list for PBXProject "mario" */ = {
+		F218FFC91B506E4E000CB182 /* Build configuration list for PBXProject "majestic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F218FF3F1B4DBE67000CB182 /* Debug */,
-				F218FF401B4DBE67000CB182 /* Release */,
+				F218FFD11B506E4E000CB182 /* Debug */,
+				F218FFD21B506E4E000CB182 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F218FF411B4DBE67000CB182 /* Build configuration list for PBXNativeTarget "mario" */ = {
+		F218FFD31B506E4E000CB182 /* Build configuration list for PBXNativeTarget "majestic" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F218FF421B4DBE67000CB182 /* Debug */,
-				F218FF431B4DBE67000CB182 /* Release */,
+				F218FFD41B506E4E000CB182 /* Debug */,
+				F218FFD51B506E4E000CB182 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F218FF341B4DBE67000CB182 /* Project object */;
+	rootObject = F218FFC61B506E4E000CB182 /* Project object */;
 }

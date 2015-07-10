@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ContentVersion</key>
-	<string>1.0.1</string>
+	<string>1.0</string>
 	<key>IAPProductIdentifier</key>
 	<string>com.birdSound.modmusica.$(PRODUCT_NAME:rfc1034identifier)</string>
 </dict>
