@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F218001F1B51AEE9000CB182 /* 0-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F21800191B51AEE9000CB182 /* 0-happy.csv */; };
+		F21800201B51AEE9000CB182 /* 1-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218001A1B51AEE9000CB182 /* 1-happy.csv */; };
+		F21800211B51AEE9000CB182 /* 2-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218001B1B51AEE9000CB182 /* 2-happy.csv */; };
+		F21800221B51AEE9000CB182 /* 3-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218001C1B51AEE9000CB182 /* 3-happy.csv */; };
+		F21800231B51AEE9000CB182 /* 4-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218001D1B51AEE9000CB182 /* 4-happy.csv */; };
+		F21800241B51AEE9000CB182 /* 5-happy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218001E1B51AEE9000CB182 /* 5-happy.csv */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F218000F1B51A9D7000CB182 /* happy */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = happy; sourceTree = BUILT_PRODUCTS_DIR; };
+		F21800131B51A9D7000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F21800191B51AEE9000CB182 /* 0-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "0-happy.csv"; path = "happy/0-happy.csv"; sourceTree = "<group>"; };
+		F218001A1B51AEE9000CB182 /* 1-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "1-happy.csv"; path = "happy/1-happy.csv"; sourceTree = "<group>"; };
+		F218001B1B51AEE9000CB182 /* 2-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "2-happy.csv"; path = "happy/2-happy.csv"; sourceTree = "<group>"; };
+		F218001C1B51AEE9000CB182 /* 3-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "3-happy.csv"; path = "happy/3-happy.csv"; sourceTree = "<group>"; };
+		F218001D1B51AEE9000CB182 /* 4-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "4-happy.csv"; path = "happy/4-happy.csv"; sourceTree = "<group>"; };
+		F218001E1B51AEE9000CB182 /* 5-happy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "5-happy.csv"; path = "happy/5-happy.csv"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F21800081B51A9D7000CB182 = {
+			isa = PBXGroup;
+			children = (
+				F21800111B51A9D7000CB182 /* happy */,
+				F21800101B51A9D7000CB182 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F21800101B51A9D7000CB182 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F218000F1B51A9D7000CB182 /* happy */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F21800111B51A9D7000CB182 /* happy */ = {
+			isa = PBXGroup;
+			children = (
+				F21800191B51AEE9000CB182 /* 0-happy.csv */,
+				F218001A1B51AEE9000CB182 /* 1-happy.csv */,
+				F218001B1B51AEE9000CB182 /* 2-happy.csv */,
+				F218001C1B51AEE9000CB182 /* 3-happy.csv */,
+				F218001D1B51AEE9000CB182 /* 4-happy.csv */,
+				F218001E1B51AEE9000CB182 /* 5-happy.csv */,
+				F21800121B51A9D7000CB182 /* Supporting Files */,
+			);
+			path = happy;
+			sourceTree = "<group>";
+		};
+		F21800121B51A9D7000CB182 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F21800131B51A9D7000CB182 /* ContentInfo.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F218000E1B51A9D7000CB182 /* happy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F21800161B51A9D7000CB182 /* Build configuration list for PBXNativeTarget "happy" */;
+			buildPhases = (
+				F218000D1B51A9D7000CB182 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = happy;
+			productName = happy;
+			productReference = F218000F1B51A9D7000CB182 /* happy */;
+			productType = "com.apple.product-type.in-app-purchase-content";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F21800091B51A9D7000CB182 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0640;
+				ORGANIZATIONNAME = "birdSound LLC";
+				TargetAttributes = {
+					F218000E1B51A9D7000CB182 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+				};
+			};
+			buildConfigurationList = F218000C1B51A9D7000CB182 /* Build configuration list for PBXProject "happy" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F21800081B51A9D7000CB182;
+			productRefGroup = F21800101B51A9D7000CB182 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F218000E1B51A9D7000CB182 /* happy */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F218000D1B51A9D7000CB182 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F218001F1B51AEE9000CB182 /* 0-happy.csv in Resources */,
+				F21800241B51AEE9000CB182 /* 5-happy.csv in Resources */,
+				F21800201B51AEE9000CB182 /* 1-happy.csv in Resources */,
+				F21800211B51AEE9000CB182 /* 2-happy.csv in Resources */,
+				F21800231B51AEE9000CB182 /* 4-happy.csv in Resources */,
+				F21800221B51AEE9000CB182 /* 3-happy.csv in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F21800141B51A9D7000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		F21800151B51A9D7000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+			};
+			name = Release;
+		};
+		F21800171B51A9D7000CB182 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = happy/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Debug;
+		};
+		F21800181B51A9D7000CB182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = happy/ContentInfo.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/InAppPurchaseContent";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F218000C1B51A9D7000CB182 /* Build configuration list for PBXProject "happy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F21800141B51A9D7000CB182 /* Debug */,
+				F21800151B51A9D7000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F21800161B51A9D7000CB182 /* Build configuration list for PBXNativeTarget "happy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F21800171B51A9D7000CB182 /* Debug */,
+				F21800181B51A9D7000CB182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F21800091B51A9D7000CB182 /* Project object */;
+}
