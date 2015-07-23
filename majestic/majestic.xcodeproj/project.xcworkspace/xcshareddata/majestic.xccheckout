@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>46A17280-12DC-4B35-BC12-F98490B16467</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>majestic</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>855748CF4C63B8CC1BEA9C42809BF04D0F579E75</key>
 		<string>https://github.com/evilBird/ModMusica-IAP.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>majestic/majestic.xcodeproj/project.xcworkspace</string>
+	<string>majestic/majestic.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>855748CF4C63B8CC1BEA9C42809BF04D0F579E75</key>
