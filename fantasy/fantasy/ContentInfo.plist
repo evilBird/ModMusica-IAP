@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>SectionCount</key>
-	<integer>4</integer>
+	<integer>2</integer>
 	<key>ContentVersion</key>
-	<string>1.1</string>
+	<string>1.1.1</string>
 	<key>IAPProductIdentifier</key>
 	<string>com.birdSound.modmusica.$(PRODUCT_NAME:rfc1034identifier)</string>
 </dict>
