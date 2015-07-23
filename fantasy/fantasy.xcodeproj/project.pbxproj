@@ -9,13 +9,22 @@
 /* Begin PBXBuildFile section */
 		F218FF311B4DBDED000CB182 /* 0-fantasy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */; };
 		F218FF321B4DBDED000CB182 /* 1-fantasy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF301B4DBDED000CB182 /* 1-fantasy.csv */; };
+		F2A4C2761B60671400AA6EC9 /* ContentInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2711B60671400AA6EC9 /* ContentInfo.plist */; };
+		F2A4C2771B60671400AA6EC9 /* Dependencies in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2721B60671400AA6EC9 /* Dependencies */; };
+		F2A4C2781B60671400AA6EC9 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2731B60671400AA6EC9 /* DrumSamples */; };
+		F2A4C2791B60671400AA6EC9 /* modmusica_fantasy.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */; };
+		F2A4C27A1B60671400AA6EC9 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2751B60671400AA6EC9 /* OtherSamples */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-fantasy.csv"; sourceTree = "<group>"; };
 		F218FF301B4DBDED000CB182 /* 1-fantasy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-fantasy.csv"; sourceTree = "<group>"; };
 		F26A69DE1B4B8D7A002F0736 /* fantasy */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = fantasy; sourceTree = BUILT_PRODUCTS_DIR; };
-		F26A69E21B4B8D7A002F0736 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F2A4C2711B60671400AA6EC9 /* ContentInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F2A4C2721B60671400AA6EC9 /* Dependencies */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Dependencies; sourceTree = "<group>"; };
+		F2A4C2731B60671400AA6EC9 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
+		F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modmusica_fantasy.pd; sourceTree = "<group>"; };
+		F2A4C2751B60671400AA6EC9 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -40,6 +49,10 @@
 			children = (
 				F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */,
 				F218FF301B4DBDED000CB182 /* 1-fantasy.csv */,
+				F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */,
+				F2A4C2721B60671400AA6EC9 /* Dependencies */,
+				F2A4C2731B60671400AA6EC9 /* DrumSamples */,
+				F2A4C2751B60671400AA6EC9 /* OtherSamples */,
 				F26A69E11B4B8D7A002F0736 /* Supporting Files */,
 			);
 			path = fantasy;
@@ -48,7 +61,7 @@
 		F26A69E11B4B8D7A002F0736 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F26A69E21B4B8D7A002F0736 /* ContentInfo.plist */,
+				F2A4C2711B60671400AA6EC9 /* ContentInfo.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -107,8 +120,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2A4C27A1B60671400AA6EC9 /* OtherSamples in Resources */,
+				F2A4C2761B60671400AA6EC9 /* ContentInfo.plist in Resources */,
 				F218FF311B4DBDED000CB182 /* 0-fantasy.csv in Resources */,
 				F218FF321B4DBDED000CB182 /* 1-fantasy.csv in Resources */,
+				F2A4C2781B60671400AA6EC9 /* DrumSamples in Resources */,
+				F2A4C2771B60671400AA6EC9 /* Dependencies in Resources */,
+				F2A4C2791B60671400AA6EC9 /* modmusica_fantasy.pd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
