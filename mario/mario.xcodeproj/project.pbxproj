@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F2480F651B67FCB200C5E416 /* mm_gliss.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2480F641B67FCB200C5E416 /* mm_gliss.pd */; };
 		F283CCD41B60901600E33305 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283CCD11B60901600E33305 /* DrumSamples */; };
 		F283CCD61B60901600E33305 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283CCD31B60901600E33305 /* OtherSamples */; };
 		F2D4EDDB1B670D6A004C53F7 /* _markovanal.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EB931B670D67004C53F7 /* _markovanal.pd */; };
@@ -605,6 +606,7 @@
 /* Begin PBXFileReference section */
 		F218FF3A1B4DBE67000CB182 /* mario */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mario; sourceTree = BUILT_PRODUCTS_DIR; };
 		F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		F2480F641B67FCB200C5E416 /* mm_gliss.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mm_gliss.pd; sourceTree = "<group>"; };
 		F283CCD11B60901600E33305 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
 		F283CCD31B60901600E33305 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
 		F2D4EB931B670D67004C53F7 /* _markovanal.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _markovanal.pd; sourceTree = "<group>"; };
@@ -1241,6 +1243,7 @@
 		F2D4EB921B670D67004C53F7 /* mm_lib */ = {
 			isa = PBXGroup;
 			children = (
+				F2480F641B67FCB200C5E416 /* mm_gliss.pd */,
 				F2D4EB931B670D67004C53F7 /* _markovanal.pd */,
 				F2D4EB941B670D67004C53F7 /* a.txt */,
 				F2D4EB951B670D67004C53F7 /* a_breath-help.pd */,
@@ -1916,6 +1919,7 @@
 				F2D4EEC61B670D6A004C53F7 /* list-math-help.pd in Resources */,
 				F2D4EE001B670D6A004C53F7 /* c_multimetro-help.pd in Resources */,
 				F2D4EF081B670D6A004C53F7 /* m_accel_status.pd in Resources */,
+				F2480F651B67FCB200C5E416 /* mm_gliss.pd in Resources */,
 				F2D4F00B1B670D6A004C53F7 /* u_robinpolymono-help.pd in Resources */,
 				F2D4EF131B670D6A004C53F7 /* m_keyfollow-help.pd in Resources */,
 				F2D4EE321B670D6A004C53F7 /* e_lop2-help.pd in Resources */,
