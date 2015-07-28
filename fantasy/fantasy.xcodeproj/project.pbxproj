@@ -7,11 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F218FF311B4DBDED000CB182 /* 0-fantasy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */; };
-		F218FF321B4DBDED000CB182 /* 1-fantasy.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF301B4DBDED000CB182 /* 1-fantasy.csv */; };
 		F2A4C2761B60671400AA6EC9 /* ContentInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2711B60671400AA6EC9 /* ContentInfo.plist */; };
 		F2A4C2781B60671400AA6EC9 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2731B60671400AA6EC9 /* DrumSamples */; };
-		F2A4C2791B60671400AA6EC9 /* modmusica_fantasy.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */; };
 		F2A4C27A1B60671400AA6EC9 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2A4C2751B60671400AA6EC9 /* OtherSamples */; };
 		F2D4E94A1B670CE3004C53F7 /* _markovanal.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E7021B670CE1004C53F7 /* _markovanal.pd */; };
 		F2D4E94B1B670CE3004C53F7 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E7031B670CE1004C53F7 /* a.txt */; };
@@ -600,12 +597,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-fantasy.csv"; sourceTree = "<group>"; };
-		F218FF301B4DBDED000CB182 /* 1-fantasy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-fantasy.csv"; sourceTree = "<group>"; };
 		F26A69DE1B4B8D7A002F0736 /* fantasy */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = fantasy; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2A4C2711B60671400AA6EC9 /* ContentInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
 		F2A4C2731B60671400AA6EC9 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
-		F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modmusica_fantasy.pd; sourceTree = "<group>"; };
 		F2A4C2751B60671400AA6EC9 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
 		F2D4E7021B670CE1004C53F7 /* _markovanal.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _markovanal.pd; sourceTree = "<group>"; };
 		F2D4E7031B670CE1004C53F7 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
@@ -1214,9 +1208,6 @@
 			isa = PBXGroup;
 			children = (
 				F2D4E7011B670CE1004C53F7 /* mm_lib */,
-				F218FF2F1B4DBDED000CB182 /* 0-fantasy.csv */,
-				F218FF301B4DBDED000CB182 /* 1-fantasy.csv */,
-				F2A4C2741B60671400AA6EC9 /* modmusica_fantasy.pd */,
 				F2A4C2731B60671400AA6EC9 /* DrumSamples */,
 				F2A4C2751B60671400AA6EC9 /* OtherSamples */,
 				F26A69E11B4B8D7A002F0736 /* Supporting Files */,
@@ -1938,7 +1929,6 @@
 				F2D4E9AD1B670CE3004C53F7 /* e_pingpong.pd in Resources */,
 				F2D4EAF91B670CE3004C53F7 /* README.txt in Resources */,
 				F2D4E9AB1B670CE3004C53F7 /* e_phaser.pd in Resources */,
-				F218FF311B4DBDED000CB182 /* 0-fantasy.csv in Resources */,
 				F2D4EB2F1B670CE3004C53F7 /* s_spad.pd in Resources */,
 				F2D4EB8D1B670CE3004C53F7 /* u_stereo-help.pd in Resources */,
 				F2D4E9881B670CE3004C53F7 /* e_apdist-help.pd in Resources */,
@@ -1996,7 +1986,6 @@
 				F2D4EA3B1B670CE3004C53F7 /* list-moses-help.pd in Resources */,
 				F2D4EA811B670CE3004C53F7 /* m_intv2ratio.pd in Resources */,
 				F2D4EB821B670CE3004C53F7 /* u_samplekit2-help.pd in Resources */,
-				F218FF321B4DBDED000CB182 /* 1-fantasy.csv in Resources */,
 				F2D4EA0A1B670CE3004C53F7 /* list-extend.pd in Resources */,
 				F2D4EA551B670CE3004C53F7 /* list-sect-help.pd in Resources */,
 				F2D4E9E11B670CE3004C53F7 /* g_vol-help.pd in Resources */,
@@ -2242,7 +2231,6 @@
 				F2D4EAAB1B670CE3004C53F7 /* mm_blsq4~.pd in Resources */,
 				F2D4EA201B670CE3004C53F7 /* list-inter.pd in Resources */,
 				F2D4EB241B670CE3004C53F7 /* s_pinknoise-help.pd in Resources */,
-				F2A4C2791B60671400AA6EC9 /* modmusica_fantasy.pd in Resources */,
 				F2D4EACA1B670CE3004C53F7 /* mm_rbpfilter~.pd in Resources */,
 				F2D4EAA41B670CE3004C53F7 /* mm_audio_input_stats.pd in Resources */,
 				F2D4EA221B670CE3004C53F7 /* list-invint.pd in Resources */,
