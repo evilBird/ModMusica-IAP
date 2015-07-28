@@ -7,14 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF441B4DBEA2000CB182 /* 0-mario.csv */; };
-		F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF451B4DBEA2000CB182 /* 1-mario.csv */; };
-		F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF461B4DBEA2000CB182 /* 2-mario.csv */; };
-		F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF471B4DBEA2000CB182 /* 3-mario.csv */; };
-		F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF481B4DBEA2000CB182 /* 4-mario.csv */; };
-		F218FFC41B506C01000CB182 /* 5-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FFC31B506C01000CB182 /* 5-mario.csv */; };
 		F283CCD41B60901600E33305 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283CCD11B60901600E33305 /* DrumSamples */; };
-		F283CCD51B60901600E33305 /* modmusica_mario.pd in Resources */ = {isa = PBXBuildFile; fileRef = F283CCD21B60901600E33305 /* modmusica_mario.pd */; };
 		F283CCD61B60901600E33305 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283CCD31B60901600E33305 /* OtherSamples */; };
 		F2D4EDDB1B670D6A004C53F7 /* _markovanal.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EB931B670D67004C53F7 /* _markovanal.pd */; };
 		F2D4EDDC1B670D6A004C53F7 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EB941B670D67004C53F7 /* a.txt */; };
@@ -600,19 +593,19 @@
 		F2D4F0201B670D6A004C53F7 /* u_wrandom-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EDD81B670D6A004C53F7 /* u_wrandom-help.pd */; };
 		F2D4F0211B670D6A004C53F7 /* u_wrandom.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EDD91B670D6A004C53F7 /* u_wrandom.pd */; };
 		F2D4F0221B670D6A004C53F7 /* z_blank-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4EDDA1B670D6A004C53F7 /* z_blank-help.pd */; };
+		F2D4F9641B672237004C53F7 /* 0-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F95E1B672237004C53F7 /* 0-mario.csv */; };
+		F2D4F9651B672237004C53F7 /* 1-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F95F1B672237004C53F7 /* 1-mario.csv */; };
+		F2D4F9661B672237004C53F7 /* 2-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9601B672237004C53F7 /* 2-mario.csv */; };
+		F2D4F9671B672237004C53F7 /* 3-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9611B672237004C53F7 /* 3-mario.csv */; };
+		F2D4F9681B672237004C53F7 /* 4-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9621B672237004C53F7 /* 4-mario.csv */; };
+		F2D4F9691B672237004C53F7 /* 5-mario.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9631B672237004C53F7 /* 5-mario.csv */; };
+		F2D4F96B1B672246004C53F7 /* modmusica_mario.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F96A1B672246004C53F7 /* modmusica_mario.pd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F218FF3A1B4DBE67000CB182 /* mario */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mario; sourceTree = BUILT_PRODUCTS_DIR; };
 		F218FF3E1B4DBE67000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
-		F218FF441B4DBEA2000CB182 /* 0-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mario.csv"; sourceTree = "<group>"; };
-		F218FF451B4DBEA2000CB182 /* 1-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mario.csv"; sourceTree = "<group>"; };
-		F218FF461B4DBEA2000CB182 /* 2-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mario.csv"; sourceTree = "<group>"; };
-		F218FF471B4DBEA2000CB182 /* 3-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mario.csv"; sourceTree = "<group>"; };
-		F218FF481B4DBEA2000CB182 /* 4-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mario.csv"; sourceTree = "<group>"; };
-		F218FFC31B506C01000CB182 /* 5-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mario.csv"; sourceTree = "<group>"; };
 		F283CCD11B60901600E33305 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
-		F283CCD21B60901600E33305 /* modmusica_mario.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modmusica_mario.pd; sourceTree = "<group>"; };
 		F283CCD31B60901600E33305 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
 		F2D4EB931B670D67004C53F7 /* _markovanal.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _markovanal.pd; sourceTree = "<group>"; };
 		F2D4EB941B670D67004C53F7 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
@@ -1198,6 +1191,13 @@
 		F2D4EDD81B670D6A004C53F7 /* u_wrandom-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "u_wrandom-help.pd"; sourceTree = "<group>"; };
 		F2D4EDD91B670D6A004C53F7 /* u_wrandom.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = u_wrandom.pd; sourceTree = "<group>"; };
 		F2D4EDDA1B670D6A004C53F7 /* z_blank-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "z_blank-help.pd"; sourceTree = "<group>"; };
+		F2D4F95E1B672237004C53F7 /* 0-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mario.csv"; sourceTree = "<group>"; };
+		F2D4F95F1B672237004C53F7 /* 1-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mario.csv"; sourceTree = "<group>"; };
+		F2D4F9601B672237004C53F7 /* 2-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mario.csv"; sourceTree = "<group>"; };
+		F2D4F9611B672237004C53F7 /* 3-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mario.csv"; sourceTree = "<group>"; };
+		F2D4F9621B672237004C53F7 /* 4-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mario.csv"; sourceTree = "<group>"; };
+		F2D4F9631B672237004C53F7 /* 5-mario.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mario.csv"; sourceTree = "<group>"; };
+		F2D4F96A1B672246004C53F7 /* modmusica_mario.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = modmusica_mario.pd; path = ../../libs/mm_lib/patches/modmusica_mario.pd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -1220,14 +1220,9 @@
 		F218FF3C1B4DBE67000CB182 /* mario */ = {
 			isa = PBXGroup;
 			children = (
+				F2D4F96A1B672246004C53F7 /* modmusica_mario.pd */,
+				F2D4F95D1B672237004C53F7 /* mario */,
 				F2D4EB921B670D67004C53F7 /* mm_lib */,
-				F283CCD21B60901600E33305 /* modmusica_mario.pd */,
-				F218FF441B4DBEA2000CB182 /* 0-mario.csv */,
-				F218FF451B4DBEA2000CB182 /* 1-mario.csv */,
-				F218FF461B4DBEA2000CB182 /* 2-mario.csv */,
-				F218FF471B4DBEA2000CB182 /* 3-mario.csv */,
-				F218FF481B4DBEA2000CB182 /* 4-mario.csv */,
-				F218FFC31B506C01000CB182 /* 5-mario.csv */,
 				F283CCD31B60901600E33305 /* OtherSamples */,
 				F283CCD11B60901600E33305 /* DrumSamples */,
 				F218FF3D1B4DBE67000CB182 /* Supporting Files */,
@@ -1835,6 +1830,20 @@
 			path = ../../libs/mm_lib/mm_lib;
 			sourceTree = "<group>";
 		};
+		F2D4F95D1B672237004C53F7 /* mario */ = {
+			isa = PBXGroup;
+			children = (
+				F2D4F95E1B672237004C53F7 /* 0-mario.csv */,
+				F2D4F95F1B672237004C53F7 /* 1-mario.csv */,
+				F2D4F9601B672237004C53F7 /* 2-mario.csv */,
+				F2D4F9611B672237004C53F7 /* 3-mario.csv */,
+				F2D4F9621B672237004C53F7 /* 4-mario.csv */,
+				F2D4F9631B672237004C53F7 /* 5-mario.csv */,
+			);
+			name = mario;
+			path = ../../libs/mm_lib/patterns/mario;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1952,6 +1961,7 @@
 				F2D4EE7D1B670D6A004C53F7 /* list-abs.pd in Resources */,
 				F2D4EF401B670D6A004C53F7 /* mm_click~.pd in Resources */,
 				F2D4EE5E1B670D6A004C53F7 /* g_hsl4-help.pd in Resources */,
+				F2D4F9691B672237004C53F7 /* 5-mario.csv in Resources */,
 				F2D4EFC61B670D6A004C53F7 /* sroute.pd in Resources */,
 				F2D4EE451B670D6A004C53F7 /* e_reslop-help.pd in Resources */,
 				F2D4EFE11B670D6A004C53F7 /* u_highpass-help.pd in Resources */,
@@ -1964,6 +1974,7 @@
 				F2D4EEF81B670D6A004C53F7 /* list-tabdump-help.pd in Resources */,
 				F2D4EFDF1B670D6A004C53F7 /* u_fade.pd in Resources */,
 				F2D4EDF61B670D6A004C53F7 /* c_madsr-help.pd in Resources */,
+				F2D4F9651B672237004C53F7 /* 1-mario.csv in Resources */,
 				F2D4EEF21B670D6A004C53F7 /* list-stddev-help.pd in Resources */,
 				F2D4EF231B670D6A004C53F7 /* m_sm2ms-help.pd in Resources */,
 				F2D4EEEA1B670D6A004C53F7 /* list-shellsort-help.pd in Resources */,
@@ -2052,7 +2063,6 @@
 				F2D4EFE71B670D6A004C53F7 /* u_listequal-help.pd in Resources */,
 				F2D4EEC71B670D6A004C53F7 /* list-math.pd in Resources */,
 				F2D4EF961B670D6A004C53F7 /* s_chip-help.pd in Resources */,
-				F218FF491B4DBEA2000CB182 /* 0-mario.csv in Resources */,
 				F2D4EF171B670D6A004C53F7 /* m_markovanal-help.pd in Resources */,
 				F2D4F0001B670D6A004C53F7 /* u_makepoly.pd in Resources */,
 				F2D4EF551B670D6A004C53F7 /* mm_pan~.pd in Resources */,
@@ -2066,6 +2076,7 @@
 				F2D4EEF71B670D6A004C53F7 /* list-swap.pd in Resources */,
 				F2D4EEB41B670D6A004C53F7 /* list-iter-help.pd in Resources */,
 				F2D4EFC01B670D6A004C53F7 /* s_spad.pd in Resources */,
+				F2D4F9661B672237004C53F7 /* 2-mario.csv in Resources */,
 				F2D4EDDD1B670D6A004C53F7 /* a_breath-help.pd in Resources */,
 				F2D4EF781B670D6A004C53F7 /* mm_xylo~.pd in Resources */,
 				F2D4EEED1B670D6A004C53F7 /* list-sieve.pd in Resources */,
@@ -2124,12 +2135,12 @@
 				F2D4EFD91B670D6A004C53F7 /* u_collect.pd in Resources */,
 				F2D4EE161B670D6A004C53F7 /* e_agc.pd in Resources */,
 				F2D4EF421B670D6A004C53F7 /* mm_compressor~.pd in Resources */,
-				F218FF4D1B4DBEA2000CB182 /* 4-mario.csv in Resources */,
 				F2D4F0221B670D6A004C53F7 /* z_blank-help.pd in Resources */,
 				F2D4EE801B670D6A004C53F7 /* list-add-help.pd in Resources */,
 				F2D4EF8D1B670D6A004C53F7 /* rj_image-help.pd in Resources */,
 				F2D4EF621B670D6A004C53F7 /* mm_runif.pd in Resources */,
 				F2D4EE4A1B670D6A004C53F7 /* e_reverb.pd in Resources */,
+				F2D4F9641B672237004C53F7 /* 0-mario.csv in Resources */,
 				F2D4EEA01B670D6A004C53F7 /* list-filter-help.pd in Resources */,
 				F2D4EF4D1B670D6A004C53F7 /* mm_invert.pd in Resources */,
 				F2D4EF771B670D6A004C53F7 /* mm_wrandom.pd in Resources */,
@@ -2166,7 +2177,6 @@
 				F2D4EDE21B670D6A004C53F7 /* c_adsr-help.pd in Resources */,
 				F2D4EDE61B670D6A004C53F7 /* c_bangx-help.pd in Resources */,
 				F2D4EEAF1B670D6A004C53F7 /* list-inter-many-help.pd in Resources */,
-				F218FF4C1B4DBEA2000CB182 /* 3-mario.csv in Resources */,
 				F2D4EEA31B670D6A004C53F7 /* list-find.pd in Resources */,
 				F2D4EF701B670D6A004C53F7 /* mm_srandom.pd in Resources */,
 				F2D4EE441B670D6A004C53F7 /* e_repeater.pd in Resources */,
@@ -2250,9 +2260,9 @@
 				F2D4EEDD1B670D6A004C53F7 /* list-reduce.pd in Resources */,
 				F2D4EE3C1B670D6A004C53F7 /* e_phaser.pd in Resources */,
 				F2D4EFFF1B670D6A004C53F7 /* u_makepoly-help.pd in Resources */,
-				F218FF4B1B4DBEA2000CB182 /* 2-mario.csv in Resources */,
 				F2D4EED21B670D6A004C53F7 /* list-nth-help.pd in Resources */,
 				F2D4EFE21B670D6A004C53F7 /* u_highpass.pd in Resources */,
+				F2D4F9671B672237004C53F7 /* 3-mario.csv in Resources */,
 				F2D4EF571B670D6A004C53F7 /* mm_pulse~.pd in Resources */,
 				F2D4EED61B670D6A004C53F7 /* list-pad-help.pd in Resources */,
 				F2D4EFC11B670D6A004C53F7 /* s_vphasor-help.pd in Resources */,
@@ -2322,7 +2332,6 @@
 				F2D4EF751B670D6A004C53F7 /* mm_uke~.pd in Resources */,
 				F2D4EEB61B670D6A004C53F7 /* list-l2s-help.pd in Resources */,
 				F2D4EFF21B670D6A004C53F7 /* u_listrandom.pd in Resources */,
-				F218FF4A1B4DBEA2000CB182 /* 1-mario.csv in Resources */,
 				F2D4EEE81B670D6A004C53F7 /* list-seek-help.pd in Resources */,
 				F2D4EFCE1B670D6A004C53F7 /* u_bandpass1q-help.pd in Resources */,
 				F2D4EF5A1B670D6A004C53F7 /* mm_rbpfilter_parms.pd in Resources */,
@@ -2364,6 +2373,7 @@
 				F2D4EE0E1B670D6A004C53F7 /* c_urn-help.pd in Resources */,
 				F2D4EF091B670D6A004C53F7 /* m_autoscale-help.pd in Resources */,
 				F2D4EFE41B670D6A004C53F7 /* u_highpassq.pd in Resources */,
+				F2D4F96B1B672246004C53F7 /* modmusica_mario.pd in Resources */,
 				F2D4EFB91B670D6A004C53F7 /* s_playtable-help.pd in Resources */,
 				F2D4EF6A1B670D6A004C53F7 /* mm_scope~.pd in Resources */,
 				F2D4EED11B670D6A004C53F7 /* list-normalize.pd in Resources */,
@@ -2391,8 +2401,6 @@
 				F2D4EF1C1B670D6A004C53F7 /* m_ms2beat.pd in Resources */,
 				F2D4EEF31B670D6A004C53F7 /* list-stddev.pd in Resources */,
 				F2D4EEEE1B670D6A004C53F7 /* list-sort-help.pd in Resources */,
-				F283CCD51B60901600E33305 /* modmusica_mario.pd in Resources */,
-				F218FFC41B506C01000CB182 /* 5-mario.csv in Resources */,
 				F2D4EEFD1B670D6A004C53F7 /* list-unitvec.pd in Resources */,
 				F2D4EFB11B670D6A004C53F7 /* s_noiz-help.pd in Resources */,
 				F2D4EEE61B670D6A004C53F7 /* list-sect-help.pd in Resources */,
@@ -2437,6 +2445,7 @@
 				F2D4EFD21B670D6A004C53F7 /* u_bandpass2q-help.pd in Resources */,
 				F2D4EFF51B670D6A004C53F7 /* u_listser-help.pd in Resources */,
 				F2D4EEDA1B670D6A004C53F7 /* list-rdrip-help.pd in Resources */,
+				F2D4F9681B672237004C53F7 /* 4-mario.csv in Resources */,
 				F2D4EF611B670D6A004C53F7 /* mm_rline.pd in Resources */,
 				F2D4F01E1B670D6A004C53F7 /* u_stereo-help.pd in Resources */,
 				F2D4EE861B670D6A004C53F7 /* list-clip-help.pd in Resources */,

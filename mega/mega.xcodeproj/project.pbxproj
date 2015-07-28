@@ -7,15 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F218FF661B4DBEFE000CB182 /* 0-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */; };
-		F218FF671B4DBEFE000CB182 /* 1-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF601B4DBEFE000CB182 /* 1-mega.csv */; };
-		F218FF681B4DBEFE000CB182 /* 2-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF611B4DBEFE000CB182 /* 2-mega.csv */; };
-		F218FF691B4DBEFE000CB182 /* 3-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF621B4DBEFE000CB182 /* 3-mega.csv */; };
-		F218FF6A1B4DBEFE000CB182 /* 4-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF631B4DBEFE000CB182 /* 4-mega.csv */; };
-		F218FF6B1B4DBEFE000CB182 /* 5-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF641B4DBEFE000CB182 /* 5-mega.csv */; };
-		F218FF6C1B4DBEFE000CB182 /* 6-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F218FF651B4DBEFE000CB182 /* 6-mega.csv */; };
 		F283DDE81B6090EC00E33305 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283DDE51B6090EC00E33305 /* DrumSamples */; };
-		F283DDE91B6090EC00E33305 /* modmusica_mega.pd in Resources */ = {isa = PBXBuildFile; fileRef = F283DDE61B6090EC00E33305 /* modmusica_mega.pd */; };
 		F283DDEA1B6090EC00E33305 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F283DDE71B6090EC00E33305 /* OtherSamples */; };
 		F2D4F26C1B670DD6004C53F7 /* _markovanal.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F0241B670DD3004C53F7 /* _markovanal.pd */; };
 		F2D4F26D1B670DD6004C53F7 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F0251B670DD3004C53F7 /* a.txt */; };
@@ -601,20 +593,20 @@
 		F2D4F4B11B670DD6004C53F7 /* u_wrandom-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F2691B670DD6004C53F7 /* u_wrandom-help.pd */; };
 		F2D4F4B21B670DD6004C53F7 /* u_wrandom.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F26A1B670DD6004C53F7 /* u_wrandom.pd */; };
 		F2D4F4B31B670DD6004C53F7 /* z_blank-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F26B1B670DD6004C53F7 /* z_blank-help.pd */; };
+		F2D4F9741B672263004C53F7 /* 0-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F96D1B672263004C53F7 /* 0-mega.csv */; };
+		F2D4F9751B672263004C53F7 /* 1-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F96E1B672263004C53F7 /* 1-mega.csv */; };
+		F2D4F9761B672263004C53F7 /* 2-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F96F1B672263004C53F7 /* 2-mega.csv */; };
+		F2D4F9771B672263004C53F7 /* 3-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9701B672263004C53F7 /* 3-mega.csv */; };
+		F2D4F9781B672263004C53F7 /* 4-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9711B672263004C53F7 /* 4-mega.csv */; };
+		F2D4F9791B672263004C53F7 /* 5-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9721B672263004C53F7 /* 5-mega.csv */; };
+		F2D4F97A1B672263004C53F7 /* 6-mega.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9731B672263004C53F7 /* 6-mega.csv */; };
+		F2D4F97C1B672275004C53F7 /* modmusica_mega.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F97B1B672275004C53F7 /* modmusica_mega.pd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		F218FF551B4DBED1000CB182 /* mega */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = mega; sourceTree = BUILT_PRODUCTS_DIR; };
 		F218FF591B4DBED1000CB182 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
-		F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mega.csv"; sourceTree = "<group>"; };
-		F218FF601B4DBEFE000CB182 /* 1-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mega.csv"; sourceTree = "<group>"; };
-		F218FF611B4DBEFE000CB182 /* 2-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mega.csv"; sourceTree = "<group>"; };
-		F218FF621B4DBEFE000CB182 /* 3-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mega.csv"; sourceTree = "<group>"; };
-		F218FF631B4DBEFE000CB182 /* 4-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mega.csv"; sourceTree = "<group>"; };
-		F218FF641B4DBEFE000CB182 /* 5-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mega.csv"; sourceTree = "<group>"; };
-		F218FF651B4DBEFE000CB182 /* 6-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "6-mega.csv"; sourceTree = "<group>"; };
 		F283DDE51B6090EC00E33305 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
-		F283DDE61B6090EC00E33305 /* modmusica_mega.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modmusica_mega.pd; sourceTree = "<group>"; };
 		F283DDE71B6090EC00E33305 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
 		F2D4F0241B670DD3004C53F7 /* _markovanal.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _markovanal.pd; sourceTree = "<group>"; };
 		F2D4F0251B670DD3004C53F7 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
@@ -1200,6 +1192,14 @@
 		F2D4F2691B670DD6004C53F7 /* u_wrandom-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "u_wrandom-help.pd"; sourceTree = "<group>"; };
 		F2D4F26A1B670DD6004C53F7 /* u_wrandom.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = u_wrandom.pd; sourceTree = "<group>"; };
 		F2D4F26B1B670DD6004C53F7 /* z_blank-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "z_blank-help.pd"; sourceTree = "<group>"; };
+		F2D4F96D1B672263004C53F7 /* 0-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-mega.csv"; sourceTree = "<group>"; };
+		F2D4F96E1B672263004C53F7 /* 1-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-mega.csv"; sourceTree = "<group>"; };
+		F2D4F96F1B672263004C53F7 /* 2-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-mega.csv"; sourceTree = "<group>"; };
+		F2D4F9701B672263004C53F7 /* 3-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-mega.csv"; sourceTree = "<group>"; };
+		F2D4F9711B672263004C53F7 /* 4-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-mega.csv"; sourceTree = "<group>"; };
+		F2D4F9721B672263004C53F7 /* 5-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-mega.csv"; sourceTree = "<group>"; };
+		F2D4F9731B672263004C53F7 /* 6-mega.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "6-mega.csv"; sourceTree = "<group>"; };
+		F2D4F97B1B672275004C53F7 /* modmusica_mega.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = modmusica_mega.pd; path = ../../libs/mm_lib/patches/modmusica_mega.pd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -1222,15 +1222,9 @@
 		F218FF571B4DBED1000CB182 /* mega */ = {
 			isa = PBXGroup;
 			children = (
+				F2D4F97B1B672275004C53F7 /* modmusica_mega.pd */,
+				F2D4F96C1B672263004C53F7 /* mega */,
 				F2D4F0231B670DD3004C53F7 /* mm_lib */,
-				F283DDE61B6090EC00E33305 /* modmusica_mega.pd */,
-				F218FF5F1B4DBEFE000CB182 /* 0-mega.csv */,
-				F218FF601B4DBEFE000CB182 /* 1-mega.csv */,
-				F218FF611B4DBEFE000CB182 /* 2-mega.csv */,
-				F218FF621B4DBEFE000CB182 /* 3-mega.csv */,
-				F218FF631B4DBEFE000CB182 /* 4-mega.csv */,
-				F218FF641B4DBEFE000CB182 /* 5-mega.csv */,
-				F218FF651B4DBEFE000CB182 /* 6-mega.csv */,
 				F283DDE51B6090EC00E33305 /* DrumSamples */,
 				F283DDE71B6090EC00E33305 /* OtherSamples */,
 				F218FF581B4DBED1000CB182 /* Supporting Files */,
@@ -1838,6 +1832,21 @@
 			path = ../../libs/mm_lib/mm_lib;
 			sourceTree = "<group>";
 		};
+		F2D4F96C1B672263004C53F7 /* mega */ = {
+			isa = PBXGroup;
+			children = (
+				F2D4F96D1B672263004C53F7 /* 0-mega.csv */,
+				F2D4F96E1B672263004C53F7 /* 1-mega.csv */,
+				F2D4F96F1B672263004C53F7 /* 2-mega.csv */,
+				F2D4F9701B672263004C53F7 /* 3-mega.csv */,
+				F2D4F9711B672263004C53F7 /* 4-mega.csv */,
+				F2D4F9721B672263004C53F7 /* 5-mega.csv */,
+				F2D4F9731B672263004C53F7 /* 6-mega.csv */,
+			);
+			name = mega;
+			path = ../../libs/mm_lib/patterns/mega;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1907,6 +1916,7 @@
 				F2D4F35F1B670DD6004C53F7 /* list-mult-help.pd in Resources */,
 				F2D4F2D61B670DD6004C53F7 /* e_reslop-help.pd in Resources */,
 				F2D4F4541B670DD6004C53F7 /* s_wsb-help.pd in Resources */,
+				F2D4F9761B672263004C53F7 /* 2-mega.csv in Resources */,
 				F2D4F3A81B670DD6004C53F7 /* m_markovanal-help.pd in Resources */,
 				F2D4F4481B670DD6004C53F7 /* s_playolap-help.pd in Resources */,
 				F2D4F4821B670DD6004C53F7 /* u_listrandom-help.pd in Resources */,
@@ -1943,6 +1953,8 @@
 				F2D4F4881B670DD6004C53F7 /* u_loader-help.pd in Resources */,
 				F2D4F4AE1B670DD6004C53F7 /* u_sssad.pd in Resources */,
 				F2D4F3AE1B670DD6004C53F7 /* m_ms2sm-help.pd in Resources */,
+				F2D4F9771B672263004C53F7 /* 3-mega.csv in Resources */,
+				F2D4F9781B672263004C53F7 /* 4-mega.csv in Resources */,
 				F2D4F4241B670DD6004C53F7 /* s_blsquare.pd in Resources */,
 				F2D4F4AC1B670DD6004C53F7 /* u_splicetrans-help.pd in Resources */,
 				F2D4F3141B670DD6004C53F7 /* list-apply.pd in Resources */,
@@ -2043,6 +2055,7 @@
 				F2D4F3C01B670DD6004C53F7 /* mm_am~.pd in Resources */,
 				F2D4F3D31B670DD6004C53F7 /* mm_compressor~.pd in Resources */,
 				F2D4F3BB1B670DD6004C53F7 /* m_thresholds.pd in Resources */,
+				F2D4F97C1B672275004C53F7 /* modmusica_mega.pd in Resources */,
 				F2D4F3C31B670DD6004C53F7 /* mm_audio_input.pd in Resources */,
 				F2D4F3061B670DD6004C53F7 /* g_vol2.pd in Resources */,
 				F2D4F2721B670DD6004C53F7 /* c.txt in Resources */,
@@ -2059,13 +2072,13 @@
 				F2D4F3291B670DD6004C53F7 /* list-equalize-help.pd in Resources */,
 				F2D4F41B1B670DD6004C53F7 /* README.txt in Resources */,
 				F2D4F2871B670DD6004C53F7 /* c_madsr-help.pd in Resources */,
-				F218FF6B1B4DBEFE000CB182 /* 5-mega.csv in Resources */,
 				F2D4F2DE1B670DD6004C53F7 /* e_sdelay-help.pd in Resources */,
 				F2D4F2CD1B670DD6004C53F7 /* e_phaser.pd in Resources */,
 				F2D4F3EE1B670DD6004C53F7 /* mm_readcsv.pd in Resources */,
 				F2D4F4721B670DD6004C53F7 /* u_highpass-help.pd in Resources */,
 				F2D4F3C91B670DD6004C53F7 /* mm_bclock~.pd in Resources */,
 				F2D4F2A81B670DD6004C53F7 /* e_alias-help.pd in Resources */,
+				F2D4F9791B672263004C53F7 /* 5-mega.csv in Resources */,
 				F2D4F4681B670DD6004C53F7 /* u_cocollect.pd in Resources */,
 				F2D4F49C1B670DD6004C53F7 /* u_robinpolymono-help.pd in Resources */,
 				F2D4F2701B670DD6004C53F7 /* a_onset-help.pd in Resources */,
@@ -2090,7 +2103,6 @@
 				F2D4F3BA1B670DD6004C53F7 /* m_thresholds-help.pd in Resources */,
 				F2D4F3811B670DD6004C53F7 /* list-splat-help.pd in Resources */,
 				F2D4F4211B670DD6004C53F7 /* s_blsaw-help.pd in Resources */,
-				F283DDE91B6090EC00E33305 /* modmusica_mega.pd in Resources */,
 				F2D4F4601B670DD6004C53F7 /* u_bandpass1q.pd in Resources */,
 				F2D4F4A31B670DD6004C53F7 /* u_samplekit.pd in Resources */,
 				F2D4F28D1B670DD6004C53F7 /* c_mfade3-help.pd in Resources */,
@@ -2183,7 +2195,6 @@
 				F2D4F3641B670DD6004C53F7 /* list-nth.pd in Resources */,
 				F2D4F4221B670DD6004C53F7 /* s_blsaw.pd in Resources */,
 				F2D4F2961B670DD6004C53F7 /* c_pass.pd in Resources */,
-				F218FF681B4DBEFE000CB182 /* 2-mega.csv in Resources */,
 				F2D4F3231B670DD6004C53F7 /* list-dripslow-help.pd in Resources */,
 				F2D4F4941B670DD6004C53F7 /* u_multisamplebank-help.pd in Resources */,
 				F2D4F4B11B670DD6004C53F7 /* u_wrandom-help.pd in Resources */,
@@ -2197,7 +2208,6 @@
 				F2D4F2F01B670DD6004C53F7 /* g_hsl4.pd in Resources */,
 				F2D4F3881B670DD6004C53F7 /* list-swap.pd in Resources */,
 				F2D4F3FE1B670DD6004C53F7 /* mm_sigtest~.pd in Resources */,
-				F218FF6C1B4DBEFE000CB182 /* 6-mega.csv in Resources */,
 				F2D4F3B21B670DD6004C53F7 /* m_scale-help.pd in Resources */,
 				F2D4F30D1B670DD6004C53F7 /* list-abs-meta.pd in Resources */,
 				F2D4F4641B670DD6004C53F7 /* u_bandpass2q.pd in Resources */,
@@ -2227,6 +2237,7 @@
 				F2D4F40B1B670DD6004C53F7 /* OSCprepend.pd in Resources */,
 				F2D4F3121B670DD6004C53F7 /* list-add.pd in Resources */,
 				F2D4F3531B670DD6004C53F7 /* list-map-help.pd in Resources */,
+				F2D4F9741B672263004C53F7 /* 0-mega.csv in Resources */,
 				F2D4F4441B670DD6004C53F7 /* s_osc-help.pd in Resources */,
 				F2D4F3DA1B670DD6004C53F7 /* mm_edge_detect~.pd in Resources */,
 				F2D4F2811B670DD6004C53F7 /* c_frand-help.pd in Resources */,
@@ -2257,7 +2268,6 @@
 				F2D4F29D1B670DD6004C53F7 /* c_tobus-help.pd in Resources */,
 				F2D4F3581B670DD6004C53F7 /* list-math.pd in Resources */,
 				F2D4F2971B670DD6004C53F7 /* c_patternchange-help.pd in Resources */,
-				F218FF671B4DBEFE000CB182 /* 1-mega.csv in Resources */,
 				F2D4F3051B670DD6004C53F7 /* g_vol2-help.pd in Resources */,
 				F2D4F2CA1B670DD6004C53F7 /* e_pan-help.pd in Resources */,
 				F2D4F2F31B670DD6004C53F7 /* g_nhsl-help.pd in Resources */,
@@ -2294,7 +2304,6 @@
 				F2D4F45A1B670DD6004C53F7 /* triple-scale-help.pd in Resources */,
 				F2D4F3EB1B670DD6004C53F7 /* mm_rbpfilter_parms.pd in Resources */,
 				F2D4F2B21B670DD6004C53F7 /* e_chorusr-help.pd in Resources */,
-				F218FF6A1B4DBEFE000CB182 /* 4-mega.csv in Resources */,
 				F2D4F3721B670DD6004C53F7 /* list-rev.pd in Resources */,
 				F2D4F35C1B670DD6004C53F7 /* list-minmax.pd in Resources */,
 				F2D4F3A31B670DD6004C53F7 /* m_intv2ratio.pd in Resources */,
@@ -2327,7 +2336,6 @@
 				F2D4F3B61B670DD6004C53F7 /* m_speedlimit-help.pd in Resources */,
 				F2D4F4A61B670DD6004C53F7 /* u_show-help.pd in Resources */,
 				F2D4F3C11B670DD6004C53F7 /* mm_asr_odb~.pd in Resources */,
-				F218FF691B4DBEFE000CB182 /* 3-mega.csv in Resources */,
 				F2D4F33E1B670DD6004C53F7 /* list-insert.pd in Resources */,
 				F2D4F26F1B670DD6004C53F7 /* a_breath.pd in Resources */,
 				F2D4F35E1B670DD6004C53F7 /* list-moses.pd in Resources */,
@@ -2335,6 +2343,7 @@
 				F2D4F2B31B670DD6004C53F7 /* e_chorusr.pd in Resources */,
 				F2D4F2AB1B670DD6004C53F7 /* e_apdist.pd in Resources */,
 				F2D4F3761B670DD6004C53F7 /* list-round.pd in Resources */,
+				F2D4F97A1B672263004C53F7 /* 6-mega.csv in Resources */,
 				F2D4F26E1B670DD6004C53F7 /* a_breath-help.pd in Resources */,
 				F2D4F3221B670DD6004C53F7 /* list-drip2.pd in Resources */,
 				F2D4F3E51B670DD6004C53F7 /* mm_noisegate~.pd in Resources */,
@@ -2363,7 +2372,6 @@
 				F2D4F3021B670DD6004C53F7 /* g_tgl.pd in Resources */,
 				F2D4F2F21B670DD6004C53F7 /* g_nbx.pd in Resources */,
 				F2D4F4461B670DD6004C53F7 /* s_pinknoise-help.pd in Resources */,
-				F218FF661B4DBEFE000CB182 /* 0-mega.csv in Resources */,
 				F2D4F31B1B670DD6004C53F7 /* list-delete-help.pd in Resources */,
 				F2D4F4B01B670DD6004C53F7 /* u_stereo.pd in Resources */,
 				F2D4F2B71B670DD6004C53F7 /* e_dubdel.pd in Resources */,
@@ -2451,6 +2459,7 @@
 				F2D4F4591B670DD6004C53F7 /* take-two.pd in Resources */,
 				F2D4F2CC1B670DD6004C53F7 /* e_phaser-help.pd in Resources */,
 				F2D4F2BA1B670DD6004C53F7 /* e_fbdelay-help.pd in Resources */,
+				F2D4F9751B672263004C53F7 /* 1-mega.csv in Resources */,
 				F2D4F3D51B670DD6004C53F7 /* mm_csv_container.pd in Resources */,
 				F2D4F4AA1B670DD6004C53F7 /* u_spinner-help.pd in Resources */,
 				F2D4F2C61B670DD6004C53F7 /* e_lop4.pd in Resources */,

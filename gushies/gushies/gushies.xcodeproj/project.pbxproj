@@ -9,12 +9,6 @@
 /* Begin PBXBuildFile section */
 		F2D4DDAB1B65ED00004C53F7 /* DrumSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2D4DDA71B65ED00004C53F7 /* DrumSamples */; };
 		F2D4DDAC1B65ED00004C53F7 /* OtherSamples in Resources */ = {isa = PBXBuildFile; fileRef = F2D4DDA81B65ED00004C53F7 /* OtherSamples */; };
-		F2D4E23F1B66F5A8004C53F7 /* modmusica_gushies.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E23E1B66F5A8004C53F7 /* modmusica_gushies.pd */; };
-		F2D4E2451B66FC52004C53F7 /* 0-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2401B66FC52004C53F7 /* 0-gushies.csv */; };
-		F2D4E2461B66FC52004C53F7 /* 1-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2411B66FC52004C53F7 /* 1-gushies.csv */; };
-		F2D4E2471B66FC52004C53F7 /* 2-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2421B66FC52004C53F7 /* 2-gushies.csv */; };
-		F2D4E2481B66FC52004C53F7 /* 3-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2431B66FC52004C53F7 /* 3-gushies.csv */; };
-		F2D4E2491B66FC52004C53F7 /* 4-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2441B66FC52004C53F7 /* 4-gushies.csv */; };
 		F2D4E4B91B670B93004C53F7 /* _markovanal.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2711B670B91004C53F7 /* _markovanal.pd */; };
 		F2D4E4BA1B670B93004C53F7 /* a.txt in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2721B670B91004C53F7 /* a.txt */; };
 		F2D4E4BB1B670B93004C53F7 /* a_breath-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E2731B670B91004C53F7 /* a_breath-help.pd */; };
@@ -599,6 +593,13 @@
 		F2D4E6FE1B670B93004C53F7 /* u_wrandom-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E4B61B670B93004C53F7 /* u_wrandom-help.pd */; };
 		F2D4E6FF1B670B93004C53F7 /* u_wrandom.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E4B71B670B93004C53F7 /* u_wrandom.pd */; };
 		F2D4E7001B670B93004C53F7 /* z_blank-help.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4E4B81B670B93004C53F7 /* z_blank-help.pd */; };
+		F2D4F9551B6721F9004C53F7 /* 0-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F94F1B6721F9004C53F7 /* 0-gushies.csv */; };
+		F2D4F9561B6721F9004C53F7 /* 1-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9501B6721F9004C53F7 /* 1-gushies.csv */; };
+		F2D4F9571B6721F9004C53F7 /* 2-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9511B6721F9004C53F7 /* 2-gushies.csv */; };
+		F2D4F9581B6721F9004C53F7 /* 3-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9521B6721F9004C53F7 /* 3-gushies.csv */; };
+		F2D4F9591B6721F9004C53F7 /* 4-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9531B6721F9004C53F7 /* 4-gushies.csv */; };
+		F2D4F95A1B6721F9004C53F7 /* 5-gushies.csv in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F9541B6721F9004C53F7 /* 5-gushies.csv */; };
+		F2D4F95C1B672214004C53F7 /* modmusica_gushies.pd in Resources */ = {isa = PBXBuildFile; fileRef = F2D4F95B1B672214004C53F7 /* modmusica_gushies.pd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -606,12 +607,6 @@
 		F2D4D87A1B65E6AA004C53F7 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
 		F2D4DDA71B65ED00004C53F7 /* DrumSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DrumSamples; sourceTree = "<group>"; };
 		F2D4DDA81B65ED00004C53F7 /* OtherSamples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = OtherSamples; sourceTree = "<group>"; };
-		F2D4E23E1B66F5A8004C53F7 /* modmusica_gushies.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modmusica_gushies.pd; sourceTree = "<group>"; };
-		F2D4E2401B66FC52004C53F7 /* 0-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-gushies.csv"; sourceTree = "<group>"; };
-		F2D4E2411B66FC52004C53F7 /* 1-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-gushies.csv"; sourceTree = "<group>"; };
-		F2D4E2421B66FC52004C53F7 /* 2-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-gushies.csv"; sourceTree = "<group>"; };
-		F2D4E2431B66FC52004C53F7 /* 3-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-gushies.csv"; sourceTree = "<group>"; };
-		F2D4E2441B66FC52004C53F7 /* 4-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-gushies.csv"; sourceTree = "<group>"; };
 		F2D4E2711B670B91004C53F7 /* _markovanal.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _markovanal.pd; sourceTree = "<group>"; };
 		F2D4E2721B670B91004C53F7 /* a.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = a.txt; sourceTree = "<group>"; };
 		F2D4E2731B670B91004C53F7 /* a_breath-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "a_breath-help.pd"; sourceTree = "<group>"; };
@@ -1196,6 +1191,13 @@
 		F2D4E4B61B670B93004C53F7 /* u_wrandom-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "u_wrandom-help.pd"; sourceTree = "<group>"; };
 		F2D4E4B71B670B93004C53F7 /* u_wrandom.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = u_wrandom.pd; sourceTree = "<group>"; };
 		F2D4E4B81B670B93004C53F7 /* z_blank-help.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "z_blank-help.pd"; sourceTree = "<group>"; };
+		F2D4F94F1B6721F9004C53F7 /* 0-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "0-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F9501B6721F9004C53F7 /* 1-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "1-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F9511B6721F9004C53F7 /* 2-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "2-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F9521B6721F9004C53F7 /* 3-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F9531B6721F9004C53F7 /* 4-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "4-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F9541B6721F9004C53F7 /* 5-gushies.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "5-gushies.csv"; sourceTree = "<group>"; };
+		F2D4F95B1B672214004C53F7 /* modmusica_gushies.pd */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = modmusica_gushies.pd; path = ../../../libs/mm_lib/patches/modmusica_gushies.pd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -1218,13 +1220,9 @@
 		F2D4D8781B65E6AA004C53F7 /* gushies */ = {
 			isa = PBXGroup;
 			children = (
+				F2D4F95B1B672214004C53F7 /* modmusica_gushies.pd */,
+				F2D4F94E1B6721F9004C53F7 /* gushies */,
 				F2D4E2701B670B91004C53F7 /* mm_lib */,
-				F2D4E23E1B66F5A8004C53F7 /* modmusica_gushies.pd */,
-				F2D4E2401B66FC52004C53F7 /* 0-gushies.csv */,
-				F2D4E2411B66FC52004C53F7 /* 1-gushies.csv */,
-				F2D4E2421B66FC52004C53F7 /* 2-gushies.csv */,
-				F2D4E2431B66FC52004C53F7 /* 3-gushies.csv */,
-				F2D4E2441B66FC52004C53F7 /* 4-gushies.csv */,
 				F2D4DDA71B65ED00004C53F7 /* DrumSamples */,
 				F2D4DDA81B65ED00004C53F7 /* OtherSamples */,
 				F2D4D8791B65E6AA004C53F7 /* Supporting Files */,
@@ -1832,6 +1830,20 @@
 			path = ../../../libs/mm_lib/mm_lib;
 			sourceTree = "<group>";
 		};
+		F2D4F94E1B6721F9004C53F7 /* gushies */ = {
+			isa = PBXGroup;
+			children = (
+				F2D4F94F1B6721F9004C53F7 /* 0-gushies.csv */,
+				F2D4F9501B6721F9004C53F7 /* 1-gushies.csv */,
+				F2D4F9511B6721F9004C53F7 /* 2-gushies.csv */,
+				F2D4F9521B6721F9004C53F7 /* 3-gushies.csv */,
+				F2D4F9531B6721F9004C53F7 /* 4-gushies.csv */,
+				F2D4F9541B6721F9004C53F7 /* 5-gushies.csv */,
+			);
+			name = gushies;
+			path = ../../../libs/mm_lib/patterns/gushies;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -1962,8 +1974,8 @@
 				F2D4E5AD1B670B93004C53F7 /* list-mult.pd in Resources */,
 				F2D4E68A1B670B93004C53F7 /* s_looper.pd in Resources */,
 				F2D4E6DF1B670B93004C53F7 /* u_messagesaver-help.pd in Resources */,
-				F2D4E2471B66FC52004C53F7 /* 2-gushies.csv in Resources */,
 				F2D4E6A61B670B93004C53F7 /* take-two.pd in Resources */,
+				F2D4F9571B6721F9004C53F7 /* 2-gushies.csv in Resources */,
 				F2D4E4E81B670B93004C53F7 /* c_taptap-help.pd in Resources */,
 				F2D4E6321B670B93004C53F7 /* mm_noisegate~.pd in Resources */,
 				F2D4E5241B670B93004C53F7 /* e_reslop.pd in Resources */,
@@ -2159,6 +2171,7 @@
 				F2D4E60A1B670B93004C53F7 /* m_touch2grid.pd in Resources */,
 				F2D4E67F1B670B93004C53F7 /* s_fm4.pd in Resources */,
 				F2D4E5991B670B93004C53F7 /* list-len.pd in Resources */,
+				F2D4F95A1B6721F9004C53F7 /* 5-gushies.csv in Resources */,
 				F2D4E6441B670B93004C53F7 /* mm_sample_slicer_revised~.pd in Resources */,
 				F2D4E5771B670B93004C53F7 /* list-equalize.pd in Resources */,
 				F2D4E52C1B670B93004C53F7 /* e_sdelay.pd in Resources */,
@@ -2303,6 +2316,7 @@
 				F2D4E58E1B670B93004C53F7 /* list-inter-many.pd in Resources */,
 				F2D4E6031B670B93004C53F7 /* m_speedlimit-help.pd in Resources */,
 				F2D4E5461B670B93004C53F7 /* g_showtext-help.pd in Resources */,
+				F2D4F9591B6721F9004C53F7 /* 4-gushies.csv in Resources */,
 				F2D4E4E11B670B93004C53F7 /* c_multipass.pd in Resources */,
 				F2D4E6A41B670B93004C53F7 /* sroute.pd in Resources */,
 				F2D4E6021B670B93004C53F7 /* m_sm2ms.pd in Resources */,
@@ -2329,6 +2343,7 @@
 				F2D4E6DA1B670B93004C53F7 /* u_lowpass.pd in Resources */,
 				F2D4E57B1B670B93004C53F7 /* list-fifo-delim.pd in Resources */,
 				F2D4E5ED1B670B93004C53F7 /* m_chorddict-help.pd in Resources */,
+				F2D4F9551B6721F9004C53F7 /* 0-gushies.csv in Resources */,
 				F2D4E5871B670B93004C53F7 /* list-harmonic-mean.pd in Resources */,
 				F2D4E6F01B670B93004C53F7 /* u_samplekit.pd in Resources */,
 				F2D4E5D71B670B93004C53F7 /* list-tabdump.pd in Resources */,
@@ -2388,7 +2403,6 @@
 				F2D4E4E21B670B93004C53F7 /* c_pass-help.pd in Resources */,
 				F2D4E6D11B670B93004C53F7 /* u_listreduce-help.pd in Resources */,
 				F2D4E6191B670B93004C53F7 /* mm_blsq12~.pd in Resources */,
-				F2D4E23F1B66F5A8004C53F7 /* modmusica_gushies.pd in Resources */,
 				F2D4E5981B670B93004C53F7 /* list-len-help.pd in Resources */,
 				F2D4E6B01B670B93004C53F7 /* u_bandpass2q-help.pd in Resources */,
 				F2D4E6491B670B93004C53F7 /* mm_seq_editor.pd in Resources */,
@@ -2399,7 +2413,6 @@
 				F2D4E63D1B670B93004C53F7 /* mm_rfloor.pd in Resources */,
 				F2D4E5291B670B93004C53F7 /* e_scompress-help.pd in Resources */,
 				F2D4E6411B670B93004C53F7 /* mm_sample_player~.pd in Resources */,
-				F2D4E2491B66FC52004C53F7 /* 4-gushies.csv in Resources */,
 				F2D4E51F1B670B93004C53F7 /* e_platereverb-help.pd in Resources */,
 				F2D4E6961B670B93004C53F7 /* s_playolap.pd in Resources */,
 				F2D4E5D91B670B93004C53F7 /* list-unique.pd in Resources */,
@@ -2416,8 +2429,9 @@
 				F2D4E62E1B670B93004C53F7 /* mm_makelist.pd in Resources */,
 				F2D4E62A1B670B93004C53F7 /* mm_improvise.pd in Resources */,
 				F2D4E62D1B670B93004C53F7 /* mm_list_groups.pd in Resources */,
-				F2D4E2451B66FC52004C53F7 /* 0-gushies.csv in Resources */,
 				F2D4E5CE1B670B93004C53F7 /* list-splat-help.pd in Resources */,
+				F2D4F9561B6721F9004C53F7 /* 1-gushies.csv in Resources */,
+				F2D4F9581B6721F9004C53F7 /* 3-gushies.csv in Resources */,
 				F2D4E5D81B670B93004C53F7 /* list-unique-help.pd in Resources */,
 				F2D4E5FC1B670B93004C53F7 /* m_ms2sm.pd in Resources */,
 				F2D4E60E1B670B93004C53F7 /* mm_asr_odb~.pd in Resources */,
@@ -2457,7 +2471,6 @@
 				F2D4E5781B670B93004C53F7 /* list-extend-help.pd in Resources */,
 				F2D4E4FF1B670B93004C53F7 /* e_chorusr-help.pd in Resources */,
 				F2D4E5CD1B670B93004C53F7 /* list-sort.pd in Resources */,
-				F2D4E2461B66FC52004C53F7 /* 1-gushies.csv in Resources */,
 				F2D4E6A81B670B93004C53F7 /* triple-scale.pd in Resources */,
 				F2D4E6C41B670B93004C53F7 /* u_listdrip.pd in Resources */,
 				F2D4E4CD1B670B93004C53F7 /* c_ead.pd in Resources */,
@@ -2469,7 +2482,6 @@
 				F2D4E5B21B670B93004C53F7 /* list-onearg-help.pd in Resources */,
 				F2D4E61A1B670B93004C53F7 /* mm_blsq4~.pd in Resources */,
 				F2D4E4DA1B670B93004C53F7 /* c_mfade3-help.pd in Resources */,
-				F2D4E2481B66FC52004C53F7 /* 3-gushies.csv in Resources */,
 				F2D4E5441B670B93004C53F7 /* g_showimage-help.pd in Resources */,
 				F2D4E6271B670B93004C53F7 /* mm_edge_detect~.pd in Resources */,
 				F2D4E5FE1B670B93004C53F7 /* m_ratio2intv.pd in Resources */,
@@ -2478,6 +2490,7 @@
 				F2D4E53B1B670B93004C53F7 /* g_hsl.pd in Resources */,
 				F2D4E5551B670B93004C53F7 /* last-x.pd in Resources */,
 				F2D4E55D1B670B93004C53F7 /* list-accum.pd in Resources */,
+				F2D4F95C1B672214004C53F7 /* modmusica_gushies.pd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
