@@ -1,4 +1,4 @@
-#N canvas 184 97 1440 851 10;
+#N canvas 113 98 1440 851 10;
 #X declare;
 #N canvas 344 23 903 680 clock 0;
 #X msg 156 109 play;
@@ -160,7 +160,7 @@
 #X connect 18 0 1 0;
 #X connect 19 0 18 1;
 #X connect 20 0 21 0;
-#X restore 15 513 pd out;
+#X restore 14 499 pd out;
 #N canvas 805 219 556 476 taptempo 0;
 #X obj 184 -203 r tapTempo;
 #X obj 182 -39 timer;
@@ -1331,7 +1331,7 @@ milliseconds \, based on samplerate.;
 #X text 758 199 bass goes here;
 #X obj 527 840 mm_compressor~;
 #X obj 517 333 mtof;
-#X obj 525 569 mm_asr~;
+#X obj 525 607 mm_asr~;
 #X obj 519 355 t f b;
 #X obj 566 775 loadbang;
 #X obj 671 394 r randomize1;
@@ -1432,9 +1432,9 @@ milliseconds \, based on samplerate.;
 #X restore 123 39 pd editor tools;
 #X obj 253 39 list length;
 #X floatatom 263 79 5 0 0 0 - - -;
-#X msg 121 -32 65 0 69 0 70 0 71 70 72 0 74 0 75 0 76 75 77 0 76 0
-75 0 74 73 72 0 70 0 69 0 67 0 65 0 74 0 75 0 76 71 72 0 71 0 72 0
-73 0 65 0 69 0 70 0 71 70 72 0 70 0 69 0 65 0;
+#X msg 121 -32 65 77 65 77 0 69 70 71 72 84 72 0 0 74 75 76 77 89 77
+0 0 76 75 74 72 84 0 74 86 0 69 0 65 77 65 0 0 69 70 71 72 84 72 0
+0 74 75 76 77 89 77 0 0 76 75 74 72 84 0 74 86 0 69 0;
 #X msg -2 -101 0 41 0 0 45 0 0 48 0 0 50 0 48 41 0 0 45 0 0 48 0 0
 50 0 48 45 0 0 49 0 0 52 0 0 54 0 0 45 0 0 47 0 0 49 0 45 47 0 49;
 #X connect 0 0 12 0;
@@ -1462,8 +1462,6 @@ milliseconds \, based on samplerate.;
 #X msg 569 804 switch 1 \, threshold 95 \, ratio 1.4;
 #X obj 554 485 * 2;
 #X obj 555 510 osc~;
-#X obj 556 533 *~ 0.5;
-#X obj 525 718 *~ 0.25;
 #X obj 526 751 mm_shfilter~ 175 3500 1.5 1.9;
 #N canvas 556 406 450 300 gliss 0;
 #X obj 128 76 inlet;
@@ -1487,6 +1485,9 @@ milliseconds \, based on samplerate.;
 #X obj 731 487 mm_runif 5 50;
 #X obj 790 552 mm_runif 2 500;
 #X obj 671 436 mm_runif 50 500;
+#X floatatom 605 454 5 0 0 0 - - -;
+#X obj 556 533 *~ 1;
+#X obj 525 718 *~ 1.3;
 #X connect 0 0 21 0;
 #X connect 0 0 24 0;
 #X connect 1 0 0 1;
@@ -1513,37 +1514,38 @@ milliseconds \, based on samplerate.;
 #X connect 23 0 15 0;
 #X connect 23 0 15 1;
 #X connect 24 0 26 0;
-#X connect 25 0 48 0;
-#X connect 26 0 47 0;
+#X connect 25 0 46 0;
+#X connect 26 0 45 0;
 #X connect 26 1 25 1;
 #X connect 27 0 41 0;
-#X connect 28 0 53 0;
-#X connect 29 0 51 0;
-#X connect 30 0 52 0;
+#X connect 28 0 51 0;
+#X connect 29 0 49 0;
+#X connect 30 0 50 0;
 #X connect 31 0 35 0;
 #X connect 32 0 25 2;
 #X connect 33 0 25 2;
 #X connect 34 0 25 2;
 #X connect 36 0 37 0;
 #X connect 37 0 38 0;
+#X connect 38 0 49 1;
+#X connect 38 0 50 1;
 #X connect 38 0 51 1;
-#X connect 38 0 52 1;
-#X connect 38 0 53 1;
 #X connect 40 0 25 0;
 #X connect 41 0 23 1;
 #X connect 42 0 43 0;
-#X connect 43 0 44 0;
-#X connect 44 0 25 0;
-#X connect 45 0 46 0;
-#X connect 46 0 23 0;
-#X connect 47 0 40 0;
-#X connect 47 0 42 0;
-#X connect 48 0 45 0;
-#X connect 49 0 48 1;
-#X connect 50 0 49 0;
-#X connect 51 0 33 0;
-#X connect 52 0 34 0;
-#X connect 53 0 32 0;
+#X connect 43 0 53 0;
+#X connect 44 0 23 0;
+#X connect 45 0 40 0;
+#X connect 45 0 42 0;
+#X connect 45 0 52 0;
+#X connect 46 0 54 0;
+#X connect 47 0 46 1;
+#X connect 48 0 47 0;
+#X connect 49 0 33 0;
+#X connect 50 0 34 0;
+#X connect 51 0 32 0;
+#X connect 53 0 25 0;
+#X connect 54 0 44 0;
 #X restore 14 165 pd bass;
 #N canvas 96 135 1332 748 randomness 0;
 #X obj 1143 -222 loadbang;
@@ -2707,9 +2709,9 @@ milliseconds \, based on samplerate.;
 #X msg 705 309 52 56 59 62 64 68 71 74;
 #X obj 318 502 list length;
 #X floatatom 322 524 5 0 0 0 - - -;
-#X msg 135 409 65 0 0 69 0 0 72 0 64 0 0 67 0 0 70 0 69 0 0 67 0 0
-65 0 67 0 0 65 0 0 64 0 65 0 0 69 0 0 72 0 64 0 0 67 0 0 70 0 69 0
-0 67 0 0 65 0 67 0 0 65 0 0 64 0;
+#X msg 135 409 65 69 72 69 72 77 72 0 64 76 79 67 79 76 70 0 69 0 0
+67 0 0 65 0 67 0 0 65 0 0 64 0 65 0 0 69 0 0 72 0 64 0 0 67 0 0 70
+0 69 0 0 67 0 0 65 0 67 0 0 65 0 0 64 0;
 #N canvas 475 105 739 593 editor 0;
 #X obj 225 274 list trim;
 #X obj 224 252 list prepend set;
@@ -2826,9 +2828,9 @@ milliseconds \, based on samplerate.;
 #X obj 38 256 mm_seq_editor 3;
 #X obj 191 554 list length;
 #X floatatom 192 575 5 0 0 0 - - -;
-#X msg 124 420 69 0 0 72 0 0 77 0 76 0 0 75 0 0 74 0 72 0 0 69 0 0
-65 0 0 73 0 74 0 75 76 0 69 0 0 72 0 0 77 0 76 0 0 75 0 0 74 0 72 0
-0 69 0 0 65 0 0 73 0 74 0 75 76 0;
+#X msg 124 420 69 57 69 72 60 72 77 65 76 64 76 75 63 75 74 0 72 60
+0 69 57 0 65 77 0 73 85 74 0 75 76 0 69 81 0 72 60 72 77 0 76 64 76
+75 63 75 74 62 72 60 0 69 57 69 65 53 65 73 61 74 86 75 76 0;
 #N canvas 410 89 739 593 editor 0;
 #X obj 225 274 list trim;
 #X obj 224 252 list prepend set;
@@ -3758,7 +3760,7 @@ milliseconds \, based on samplerate.;
 #X obj 373 302 s kickHits;
 #X obj 309 223 s kickHits;
 #X obj 212 -36 t b;
-#X obj 209 -4 mm_srandom 1 45;
+#X obj 209 -4 mm_srandom 2 45;
 #X connect 0 0 5 0;
 #X connect 1 0 13 1;
 #X connect 2 0 15 1;
@@ -4011,7 +4013,7 @@ milliseconds \, based on samplerate.;
 -1;
 #X obj 794 137 pack s f;
 #X obj 839 110 hradio 15 1 0 8 empty empty empty 0 -8 0 10 -262144
--1 -1 1;
+-1 -1 0;
 #X obj 710 210 print;
 #X msg 791 183 \$2 read -resize ~/mm_lib/samples/misc/\$1;
 #X obj 791 218 s loadSnareSample;
@@ -4139,7 +4141,7 @@ milliseconds \, based on samplerate.;
 -1;
 #X obj 804 147 pack s f;
 #X obj 849 120 hradio 15 1 0 8 empty empty empty 0 -8 0 10 -262144
--1 -1 3;
+-1 -1 0;
 #X obj 720 220 print;
 #X msg 801 193 \$2 read -resize ~/mm_lib/samples/misc/\$1;
 #X obj 801 228 s loadPercSample;
@@ -4305,7 +4307,7 @@ milliseconds \, based on samplerate.;
 #X obj 59 296 throw~ outputL;
 #X obj 377 405 s loadPatternWithPath;
 #X obj 378 340 hradio 15 1 0 8 empty empty empty 0 -8 0 10 -262144
--1 -1 4;
+-1 -1 2;
 #X msg 377 368 read Users/travishenspeter/mm_lib/patterns/mario/\$1-mario.csv
 ;
 #N canvas 469 230 701 390 alter 0;
