@@ -7,7 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>AAF431EE-9757-46CB-9045-B13A34CB0A68</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>gushies</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>396B1F2E6506518BD165FF3C4C79F6C213FCE83A</key>
@@ -16,11 +16,11 @@
 		<string>https://github.com/evilBird/ModMusica-IAP.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>gushies/gushies/gushies.xcodeproj/project.xcworkspace</string>
+	<string>gushies/gushies/gushies.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>396B1F2E6506518BD165FF3C4C79F6C213FCE83A</key>
-		<string>../../../..libs/mm_lib/</string>
+		<string>../../../..libs/mm_lib</string>
 		<key>855748CF4C63B8CC1BEA9C42809BF04D0F579E75</key>
 		<string>../../../..</string>
 	</dict>
